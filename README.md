@@ -8,7 +8,7 @@ Use as setas  ↑ e ↓ para movimentar a raquete.
 
 <b>Para rodar esse projeto acesse o link abaixo:</b>
 ```
-https://editor.p5js.org/KevenNunes/sketches/zXiliH9IP
+https://editor.p5js.org/KevenNunes/full/tOQ1XANYE
 ```
 ```
 Aperte PLAY no canto superior e divirta-se :)
